@@ -1,2 +1,2 @@
 # query_processor
-Query processor for an inverted list
+Web application which processes query processor implemented using Spring framework and Java. 
